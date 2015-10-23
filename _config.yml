@@ -1,0 +1,15 @@
+title:	'My private sandbox'
+highlighter: pygments
+
+markdown: rdiscount
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+gems:
+  - jekyll-sitemap
+
+name: Qermit
+url: http://sezamkowa.net
+description: My private sandbox
+twitter: Qermitos

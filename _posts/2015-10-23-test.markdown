@@ -1,0 +1,14 @@
+---
+layout: post
+title: Running FreeRTOS on AVR Xmega 128A1U
+draft: true
+
+---
+
+Although FreeRTOS AVR exaples exists it's not so easy to start 
+<p class="meta">Stack Pointer</p>
+<p class="meta">Stack Pointer</p>
+<p class="meta">Stack Pointer</p>
+<p class="meta">Stack Pointer</p>
+
+This is test
